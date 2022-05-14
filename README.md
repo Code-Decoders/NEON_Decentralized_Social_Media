@@ -1,6 +1,9 @@
 # Decentralized Social Media(Dwitter)
 `By CodeDecoders`
 
+## Screenshot
+![alt text](https://github.com/Maadhav/NEON_Decentralized_Social_Media/blob/master/Screenshot.png?raw=true)
+
 ## Introduction
 
 In the present world social media has become a very important part of our lives. We share so much content everyday ranging from what we are doing in our personal lives to professional information. For some it's a source of income due to its marketing capabilties and for some it's platform to share there content, for some its a platform to raise there voice and for some it's a platform to connect to world. Infact some social media platforms have become a political playground also. Many decisions, ideas, events our shared on these platforms, consider the case of twitter many heads of countries share updates on this platform. But with all these things we know social media has a problem due to its centralized nature. we have seen of password leak of twitter users and forcefull banning of accounts due to political influence. Also the advertisers may not know wether the ads they are promoting are not influenced by these companies. All these things force us to adopt a decentralization and this project have tried to implemented that.
